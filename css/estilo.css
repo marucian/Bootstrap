@@ -1,0 +1,36 @@
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.row{
+    justify-content: center;
+}
+
+.diseñoProposito {
+    grid-area: diseñoProposito;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 2%;
+}
+
+.diseñoTitulo {
+    font-family: 'Lexend', sans-serif;
+    font-size: 56px;
+    text-align: left;
+    padding-left: 20px;
+    line-height: 56px;
+}
+
+.diseñoParrafo {
+    font-family: 'Lexend', sans-serif;
+    width: 40%;
+    padding-left: 40px;
+    text-align: right;
+}
+
+.proyectos{
+    padding-top: 2%;
+}
