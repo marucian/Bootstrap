@@ -34,3 +34,15 @@
 .proyectos{
     padding-top: 2%;
 }
+
+@media only screen and (min-width: 320px) and (max-width: 576px) {
+    .diseñoParrafo{
+        width: 90%;
+        text-align: center;
+    }
+
+    .diseñoTitulo{
+        text-align: center;
+    }
+
+}
